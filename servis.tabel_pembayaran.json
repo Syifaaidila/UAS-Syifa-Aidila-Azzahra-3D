@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "676cae3dc742abaebd4eeb8b"
+  },
+  "payment id": "009 AFF",
+  "service id": "088",
+  "payment date": "09-01-2025",
+  "payment method": "bank transfer",
+  "payment status": "paid"
+}]
